@@ -163,3 +163,20 @@ frontend/
       services/
       data/
 ```
+## Project screenshots
+
+Login
+
+<img width="1229" height="771" alt="MTLoginSS" src="https://github.com/user-attachments/assets/96af15a2-7e8c-4101-95b0-af3a6e07f15b" />
+
+Dashboard
+
+<img width="1655" height="757" alt="MTDashboardSS" src="https://github.com/user-attachments/assets/63356f2c-2add-40c4-bca1-d641c3f224a7" />
+
+Assets
+
+<img width="1583" height="649" alt="MTAssetsSS" src="https://github.com/user-attachments/assets/0d5a63c2-c109-40b3-ba3f-ba8e6e4e9054" />
+
+Log details
+
+<img width="1556" height="721" alt="MTLogsSS" src="https://github.com/user-attachments/assets/af1a377b-367a-42e9-8aa6-7551e7a4f70a" />

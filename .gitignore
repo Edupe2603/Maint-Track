@@ -1,0 +1,29 @@
+# Environment files
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+**/.venv/
+.pytest_cache/
+.mypy_cache/
+
+# Local databases and logs
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Node.js and Vite
+**/node_modules/
+**/dist/
+
+# Operating system files
+.DS_Store
+Thumbs.db
